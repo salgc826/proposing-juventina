@@ -6,7 +6,7 @@
 class Game {
   constructor() {
       this.missed = 0; // This works as a counter for missed letter guesses
-      this.phrases = ['Te quieres casar conmigo para construir nuestros sueños juntos'];
+      this.phrases = ['Te quieres casar conmigo para construir nuestros suenos juntos'];
       this.activePhrase = null; // This is the Phrase object currently in play.
   }
 
